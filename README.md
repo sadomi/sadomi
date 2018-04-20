@@ -1,3 +1,5 @@
+![sadomi](https://i.imgur.com/RpyAWuU.png)
+
 # SDM
 
 Copyright (c) 2014-2017, SDM, The Monero Project
