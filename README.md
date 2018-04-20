@@ -1,4 +1,4 @@
-![sadomi](https://i.imgur.com/RpyAWuU.png)
+![sadomi](https://i.imgur.com/X4ZO04x.png)
 
 # SDM
 
