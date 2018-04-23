@@ -190,3 +190,5 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 Parts of the project are originally copyright (c) 2012-2013 The Cryptonote
 developers
+
+DONATION: Svjrun7WZhub77sWNjy1WvKsdVNZJpJS3RA3yV3kQ2NCTTrAZbZjuNe46gaDCnxAYZJXF6RtodgF7FWZBxWogKCG1NKdhP6J1
