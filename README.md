@@ -8,6 +8,7 @@ Copyright (c) 2014-2017, SDM, The Monero Project
 
 Web: https://www.sadomi.com 
 Github: https://github.com/sadomi/sadomi
+Donate: Svjrun7WZhub77sWNjy1WvKsdVNZJpJS3RA3yV3kQ2NCTTrAZbZjuNe46gaDCnxAYZJXF6RtodgF7FWZBxWogKCG1NKdhP6J1
 
 ## Introduction
 
