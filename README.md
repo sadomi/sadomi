@@ -85,7 +85,7 @@ Advanced options:
 - Manual Cmake: If you wish to manually invoke `cmake` separately instead of the above `make`, you will need to use the following: `mkdir -p build/release && cd build/release && cmake -D CMAKE_BUILD_TYPE=Release ../.. && make`. Other options can be used for debug or test builds. See root Makefile in the repo.
 
 
-On OS X:
+## On OS X:
 
 The project can be built from scratch by following instructions for Unix and Linux above.
 
@@ -93,7 +93,7 @@ Alternatively, it can be built in an easier and more automated fashion using Hom
 
 - Ensure Homebrew is installed, it can be found at http://brew.sh
 
-- Add the repository: brew tap sammy007/cryptonight
+- Add the repository: http://www.sadomi.com/sadomi.rb
 
 - Build wallet: brew install --HEAD sadomi
 
