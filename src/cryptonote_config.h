@@ -121,6 +121,6 @@
 
 #define THREAD_STACK_SIZE                       5 * 1024 * 1024
 
-#define CONFIG_DONATION_ADDRESS                 "Svkw132WRWVLhKbrEkoBf6BF7b9amx2nC7JDNa4N43sfD6bFraYjLBYPbDMkBq8ftwhE6dT5ZM3fYWk8jtbQofxe2zNhKfsFX"
+#define CONFIG_DONATION_ADDRESS                 "Svjrun7WZhub77sWNjy1WvKsdVNZJpJS3RA3yV3kQ2NCTTrAZbZjuNe46gaDCnxAYZJXF6RtodgF7FWZBxWogKCG1NKdhP6J1"
 
 #define DEFAULT_TX_SPENDABLE_AGE                10
