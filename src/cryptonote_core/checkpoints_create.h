@@ -38,8 +38,9 @@ namespace cryptonote {
   inline bool create_checkpoints(cryptonote::checkpoints& checkpoints)
   {     
     ADD_CHECKPOINT(1,      "106ae051b1e6614fd2641a1e2af8e1e4a9562ced6cccf0860a8080c624cbd369");
-    ADD_CHECKPOINT(1000,    "93f968a8507fb6f06266aad7880046819623cb94c632a7d217c253a86cd0a4d2");
-    ADD_CHECKPOINT(10000,    "00a7918073e00aa9896ea4bdc740f4fc528adf4e90375f17aa2ef69886a421fb");
+    ADD_CHECKPOINT(1000,   "93f968a8507fb6f06266aad7880046819623cb94c632a7d217c253a86cd0a4d2");
+    ADD_CHECKPOINT(10000,  "00a7918073e00aa9896ea4bdc740f4fc528adf4e90375f17aa2ef69886a421fb");
+    ADD_CHECKPOINT(20000,  "719c22300f58d23c205e2a0752a6f29f68a32398c560e4c8c1b3747be379c082");
     return true;
   }
 }
